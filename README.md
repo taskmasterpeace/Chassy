@@ -1,3 +1,5 @@
+![python_PNdk4itbzk](https://github.com/taskmasterpeace/Chassy/assets/47542160/4f325c39-55e8-4bd2-ab1c-41a5983242fb)
+
 # 🎧 Chappie: Audio Chapter Creation and Navigation Tool 🚀
 
 ## 📖 Overview
@@ -32,3 +34,5 @@ Chappie is a powerful, user-friendly desktop application designed to revolutioni
 ### Installation
 
 1. Clone the repository:
+
+
